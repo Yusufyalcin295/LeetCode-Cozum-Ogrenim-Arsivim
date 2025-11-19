@@ -13,3 +13,4 @@ class Solution:
                 return [seen[diff], i]
             # Yoksa, şu anki sayıyı ve indeksini sözlüğe ekle
             seen[n] = i 
+#
