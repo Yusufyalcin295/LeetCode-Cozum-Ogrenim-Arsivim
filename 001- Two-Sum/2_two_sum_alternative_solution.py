@@ -12,4 +12,4 @@ class Solution:
                 # Varsa, o sayının indeksi ve şu anki indeks cevaptır
                 return [seen[diff], i]
             # Yoksa, şu anki sayıyı ve indeksini sözlüğe ekle
-            seen[n] = i
+            seen[n] = i 
